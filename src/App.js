@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import Navigation from './Components/NavBar';
 import HardlyCarding from './Components/Card';
+import GridlyGridding from './Components/Grid';
 
 function App() {
   return (
