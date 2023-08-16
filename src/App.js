@@ -6,7 +6,7 @@ import HardlyCarding from './Components/Card';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <h1>G W A S H A</h1>
       <Navigation />
       <HardlyCarding />
       <GridlyGridding />
